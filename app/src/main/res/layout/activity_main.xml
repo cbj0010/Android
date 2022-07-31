@@ -18,8 +18,7 @@
         app:lottie_fileName="heart.json"
         app:lottie_autoPlay="false"
         app:lottie_loop="false"
-        app:lottie_rawRes="@raw/hello_world"
-        />
+        app:lottie_rawRes="@raw/hello_world" />
 
 
 
